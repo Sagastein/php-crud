@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>MyForm</title>
+    </head>
+    <style>
+       h1{
+        padding-left: 200px;
+       } 
+    h1,form{
+        background-color: #f1f1f1f1;
+        margin-left: 30%;
+        width: 400px;
+
+    }
+    form{
+        height: 350px;
+    }
+    input{
+     width: 250px;
+     padding: 13px;
+     border: 1px dashed black;
+    }
+    input:hover{
+        border:3px solid lightblue;
+    }
+    label,input{
+        margin-left: 70px;
+
+    }
+    button{
+        height: 50px;
+        width: 100px;
+        background: #00ff00;
+        font-size: 30px;
+        color: white;
+        margin-left: 100px;
+    }
+    </style>
+    <body >
+        <h1 style="color: green">MyForm</h1><br><br>
+        <form method="POST" action="create.php">
+            <label>USERNAME</label><br>
+          <input type="text" name="username" required><br><br>
+          <label>EMAIL</label><br>
+        <input type="email" name="email" required><br><br>
+        <label>PASSWORD</label><br>
+        <input type="password" name="password" required><br><br>
+          <button>Save</button>
+          <a href='read.php'>read Data</a>
+        </form>    
+    </body>    
+</html> 

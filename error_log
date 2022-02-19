@@ -1,0 +1,4 @@
+[11-Dec-2019 09:42:09 UTC] PHP Notice:  Undefined index: user_ID in /home1/benax/foreach.benax.rw/f/o/r/e/a/c/h/p/r/o/j/e/c/t/s/eb75869f779409e621b442b79a6e7dd6/CRUD/update.php on line 2
+[11-Dec-2019 09:42:09 UTC] PHP Notice:  Undefined index: user_name in /home1/benax/foreach.benax.rw/f/o/r/e/a/c/h/p/r/o/j/e/c/t/s/eb75869f779409e621b442b79a6e7dd6/CRUD/update.php on line 3
+[11-Dec-2019 09:42:09 UTC] PHP Notice:  Undefined index: user_email in /home1/benax/foreach.benax.rw/f/o/r/e/a/c/h/p/r/o/j/e/c/t/s/eb75869f779409e621b442b79a6e7dd6/CRUD/update.php on line 4
+[11-Dec-2019 09:42:09 UTC] PHP Notice:  Undefined index: password in /home1/benax/foreach.benax.rw/f/o/r/e/a/c/h/p/r/o/j/e/c/t/s/eb75869f779409e621b442b79a6e7dd6/CRUD/update.php on line 5
